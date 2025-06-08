@@ -1,6 +1,6 @@
 # Snake Game 🐍
 
-![Gameplay](screenshot.png)
+
 
 Classic Snake game built with Python and Tkinter.
 
