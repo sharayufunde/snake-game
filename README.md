@@ -1,6 +1,6 @@
 # Snake Game 🐍
 
-
+file:///C:/Users/Sharayu%20Funde/Downloads/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_kgfq9086nu05do2efyzu.webp
 
 Classic Snake game built with Python and Tkinter.
 
